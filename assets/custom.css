@@ -1,0 +1,210 @@
+/*
+  CSS custom — overrides pour ce que Tailwind ne gère pas
+*/
+
+/* Base */
+* { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* Scrollbar */
+::-webkit-scrollbar        { width: 4px; height: 4px; }
+::-webkit-scrollbar-track  { background: transparent; }
+::-webkit-scrollbar-thumb  { background: #E5E7EB; border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: #D1D5DB; }
+
+/* Material Icons */
+.material-icons-round { font-size: inherit; vertical-align: middle; line-height: 1; }
+.icon-nav  { font-size: 18px !important; }
+.icon-sm   { font-size: 15px !important; }
+.icon-xs   { font-size: 13px !important; }
+
+/* Plotly modebar */
+.modebar        { margin-right: 6px !important; margin-top: 4px !important; }
+.modebar-group  { display: flex !important; gap: 2px !important; }
+.modebar-btn svg { width: 13px !important; height: 13px !important; opacity: 0.4 !important; }
+.modebar-btn:hover svg { opacity: 0.8 !important; }
+
+/* DataTable */
+.dash-table-container *,
+.dash-spreadsheet-container * {
+  font-family: 'Inter', -apple-system, sans-serif !important;
+  box-sizing: border-box !important;
+}
+
+.dash-spreadsheet-inner table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 13px !important;
+}
+
+.dash-spreadsheet-inner th {
+  background: #FAFAFA !important;
+  color: #9CA3AF !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+  padding: 10px 16px !important;
+  border-bottom: 1px solid #F3F4F6 !important;
+  border-top: none !important;
+  text-align: left !important;
+  white-space: nowrap !important;
+}
+
+.dash-spreadsheet-inner td {
+  padding: 10px 16px !important;
+  border-bottom: 1px solid #F9FAFB !important;
+  color: #374151 !important;
+  font-size: 13px !important;
+}
+
+.dash-spreadsheet-inner tr:hover td { background: #FAFAFA !important; }
+
+/* Pas de bordures externes */
+.dash-spreadsheet-container .dash-spreadsheet-inner td,
+.dash-spreadsheet-container .dash-spreadsheet-inner th {
+  border-left: none !important;
+  border-right: none !important;
+}
+
+/* Dropdown (sidebar, fond sombre) */
+button.dash-dropdown {
+  border: 1px solid rgba(255,255,255,0.10) !important;
+  background: rgba(255,255,255,0.06) !important;
+  border-radius: 10px !important;
+  font-size: 13px !important;
+  color: #E5E7EB !important;
+  min-height: 38px !important;
+  cursor: pointer !important;
+}
+.dash-dropdown-value,
+.dash-dropdown-value-item,
+.dash-dropdown-value-item span {
+  color: #E5E7EB !important;
+}
+.dash-dropdown-trigger-icon {
+  color: rgba(255,255,255,0.35) !important;
+}
+
+/* Dropdown contenu ouvert */
+.dash-dropdown-content {
+  background: #1E293B !important;
+  border: 1px solid rgba(255,255,255,0.08) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3) !important;
+  overflow: visible !important;
+  z-index: 9999 !important;
+  padding-bottom: 8px !important;
+  max-height: none !important;
+  height: auto !important;
+}
+
+/* Champ de recherche */
+.dash-dropdown-search-container {
+  background: #1E293B !important;
+  border-bottom: 1px solid rgba(255,255,255,0.08) !important;
+}
+.dash-dropdown-search {
+  background: rgba(255,255,255,0.06) !important;
+  color: #E5E7EB !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  border-radius: 8px !important;
+  font-size: 12px !important;
+}
+.dash-dropdown-search::placeholder {
+  color: rgba(255,255,255,0.3) !important;
+}
+.dash-dropdown-search-container svg {
+  color: rgba(255,255,255,0.3) !important;
+}
+
+/* Liste des options */
+.dash-dropdown-options {
+  background: #1E293B !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+.dash-dropdown-option,
+.dash-options-list-option {
+  background: #1E293B !important;
+  color: #CBD5E1 !important;
+  padding: 8px 12px !important;
+  cursor: pointer !important;
+}
+.dash-dropdown-option:hover,
+.dash-options-list-option:hover,
+.dash-dropdown-option.highlighted,
+.dash-options-list-option.highlighted,
+.dash-dropdown-option[aria-selected="false"]:hover,
+label.dash-dropdown-option:hover {
+  background: rgba(106,215,36,0.15) !important;
+  color: #FFFFFF !important;
+}
+/* Override Dash inline hover styles */
+.dash-dropdown-content label[style],
+.dash-dropdown-content label {
+  background: #1E293B !important;
+  color: #CBD5E1 !important;
+}
+.dash-dropdown-content label:hover {
+  background: rgba(106,215,36,0.15) !important;
+  color: #FFFFFF !important;
+}
+.dash-dropdown-content label.selected,
+.dash-dropdown-content label.selected:hover {
+  background: rgba(106,215,36,0.2) !important;
+  color: #6AD724 !important;
+}
+.dash-dropdown-option.selected,
+.dash-options-list-option.selected {
+  background: rgba(106,215,36,0.2) !important;
+  color: #6AD724 !important;
+  font-weight: 600 !important;
+}
+.dash-dropdown-option.selected:hover,
+.dash-options-list-option.selected:hover {
+  background: rgba(106,215,36,0.25) !important;
+  color: #6AD724 !important;
+}
+
+/* Focus state */
+button.dash-dropdown:focus,
+button.dash-dropdown:focus-within {
+  border-color: rgba(106,215,36,0.4) !important;
+  box-shadow: 0 0 0 3px rgba(106,215,36,0.08) !important;
+}
+
+/* Details/Summary (collapsible hypotheses) */
+details summary { list-style: none; }
+details summary::-webkit-details-marker { display: none; }
+details summary::marker { display: none; }
+details[open] summary { margin-bottom: 0; }
+
+/* Markdown */
+.dash-markdown p { margin: 0 !important; }
+.dash-markdown strong { color: #111827 !important; font-weight: 600 !important; }
+
+/* Loading */
+._dash-loading { display: none !important; }
+
+/* Responsive - éviter overflow */
+#page-content { overflow-x: hidden; width: 100%; }
+.js-plotly-plot, .plotly, .plot-container { width: 100% !important; }
+.dash-graph { width: 100% !important; }
+
+/* Grid children overflow */
+.grid > div { min-width: 0; }
+
+/* Sidebar responsive */
+@media (max-width: 1024px) {
+  .sidebar-nav { width: 220px !important; }
+}
+
+@media (max-width: 768px) {
+  .sidebar-nav {
+    position: fixed !important;
+    transform: translateX(-100%) !important;
+    transition: transform 0.2s ease !important;
+  }
+  .sidebar-nav.open { transform: translateX(0) !important; }
+  .main-content { margin-left: 0 !important; }
+}
