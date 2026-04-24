@@ -1,0 +1,95 @@
+NUM_DEPT,NOM_DEPT,NOM_REGION,POPULATION_2021,PART_POP_30_60_ANS_PCT,TAUX_MOTORISATION_PCT,SOURCE_POP,SOURCE_MOTO,URL_INSEE
+01,Ain,Auvergne-Rhône-Alpes,651000,42.1,87.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+02,Aisne,Hauts-de-France,532000,40.5,82.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+03,Allier,Auvergne-Rhône-Alpes,336000,38.9,85.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,163000,39.2,86.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,141000,39.8,87.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,1094000,41.0,78.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+07,Ardèche,Auvergne-Rhône-Alpes,330000,40.0,87.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+08,Ardennes,Grand Est,276000,39.1,83.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+09,Ariège,Occitanie,152000,39.5,87.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+10,Aube,Grand Est,309000,40.2,83.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+11,Aude,Occitanie,376000,39.7,84.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+12,Aveyron,Occitanie,279000,38.8,87.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,2065000,40.8,76.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+14,Calvados,Normandie,704000,40.5,83.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+15,Cantal,Auvergne-Rhône-Alpes,144000,37.5,88.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+16,Charente,Nouvelle-Aquitaine,352000,39.0,85.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+17,Charente-Maritime,Nouvelle-Aquitaine,646000,40.1,86.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+18,Cher,Centre-Val de Loire,298000,38.7,85.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+19,Corrèze,Nouvelle-Aquitaine,237000,38.1,87.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+21,Côte-d'Or,Bourgogne-Franche-Comté,533000,40.8,83.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+22,Côtes-d'Armor,Bretagne,605000,39.9,85.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+23,Creuse,Nouvelle-Aquitaine,113000,36.2,87.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+24,Dordogne,Nouvelle-Aquitaine,415000,38.0,86.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+25,Doubs,Bourgogne-Franche-Comté,544000,41.2,83.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+26,Drôme,Auvergne-Rhône-Alpes,517000,40.6,84.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+27,Eure,Normandie,597000,41.0,84.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+28,Eure-et-Loir,Centre-Val de Loire,434000,41.1,84.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+29,Finistère,Bretagne,918000,40.2,84.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+30,Gard,Occitanie,752000,40.4,83.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+31,Haute-Garonne,Occitanie,1408000,42.0,78.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+32,Gers,Occitanie,189000,38.3,87.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+33,Gironde,Nouvelle-Aquitaine,1627000,42.1,79.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+34,Hérault,Occitanie,1175000,41.2,79.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+35,Ille-et-Vilaine,Bretagne,1084000,42.3,82.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+36,Indre,Centre-Val de Loire,221000,37.5,86.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+37,Indre-et-Loire,Centre-Val de Loire,610000,40.5,83.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+38,Isère,Auvergne-Rhône-Alpes,1271000,42.0,83.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+39,Jura,Bourgogne-Franche-Comté,258000,39.2,86.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+40,Landes,Nouvelle-Aquitaine,432000,40.1,87.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+41,Loir-et-Cher,Centre-Val de Loire,333000,39.0,86.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+42,Loire,Auvergne-Rhône-Alpes,766000,40.5,83.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+43,Haute-Loire,Auvergne-Rhône-Alpes,229000,39.0,87.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+44,Loire-Atlantique,Pays de la Loire,1430000,42.2,81.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+45,Loiret,Centre-Val de Loire,685000,41.3,83.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+46,Lot,Occitanie,174000,37.8,88.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+47,Lot-et-Garonne,Nouvelle-Aquitaine,333000,38.4,86.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+48,Lozère,Occitanie,76000,37.1,89.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+49,Maine-et-Loire,Pays de la Loire,820000,41.0,83.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+50,Manche,Normandie,494000,39.3,86.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+51,Marne,Grand Est,564000,40.8,82.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+52,Haute-Marne,Grand Est,171000,37.9,84.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+53,Mayenne,Pays de la Loire,307000,40.0,87.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+54,Meurthe-et-Moselle,Grand Est,733000,40.9,82.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+55,Meuse,Grand Est,183000,37.8,85.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+56,Morbihan,Bretagne,760000,39.8,85.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+57,Moselle,Grand Est,1043000,40.5,83.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+58,Nièvre,Bourgogne-Franche-Comté,205000,37.3,86.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+59,Nord,Hauts-de-France,2608000,41.2,78.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+60,Oise,Hauts-de-France,829000,42.0,84.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+61,Orne,Normandie,278000,37.9,86.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+62,Pas-de-Calais,Hauts-de-France,1463000,40.0,81.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+63,Puy-de-Dôme,Auvergne-Rhône-Alpes,665000,40.8,83.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,685000,40.2,84.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+65,Hautes-Pyrénées,Occitanie,225000,38.5,86.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+66,Pyrénées-Orientales,Occitanie,480000,39.4,81.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+67,Bas-Rhin,Grand Est,1143000,41.5,82.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+68,Haut-Rhin,Grand Est,766000,41.0,83.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+69,Rhône,Auvergne-Rhône-Alpes,1875000,42.5,75.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+70,Haute-Saône,Bourgogne-Franche-Comté,236000,38.8,85.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+71,Saône-et-Loire,Bourgogne-Franche-Comté,552000,39.0,86.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+72,Sarthe,Pays de la Loire,569000,40.0,84.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+73,Savoie,Auvergne-Rhône-Alpes,440000,40.5,84.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+74,Haute-Savoie,Auvergne-Rhône-Alpes,836000,42.8,85.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+75,Paris,Île-de-France,2102000,42.0,36.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+76,Seine-Maritime,Normandie,1254000,40.8,81.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+77,Seine-et-Marne,Île-de-France,1430000,43.1,88.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+78,Yvelines,Île-de-France,1443000,42.5,88.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+79,Deux-Sèvres,Nouvelle-Aquitaine,376000,39.2,86.7,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+80,Somme,Hauts-de-France,571000,39.5,83.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+81,Tarn,Occitanie,388000,39.1,85.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+82,Tarn-et-Garonne,Occitanie,264000,40.0,85.9,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+83,Var,Provence-Alpes-Côte d'Azur,1084000,40.5,82.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+84,Vaucluse,Provence-Alpes-Côte d'Azur,566000,40.2,83.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+85,Vendée,Pays de la Loire,693000,40.5,88.6,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+86,Vienne,Nouvelle-Aquitaine,438000,39.8,84.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+87,Haute-Vienne,Nouvelle-Aquitaine,374000,39.3,83.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+88,Vosges,Grand Est,364000,38.5,85.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+89,Yonne,Bourgogne-Franche-Comté,338000,38.2,86.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+90,Territoire de Belfort,Bourgogne-Franche-Comté,142000,40.3,83.5,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+91,Essonne,Île-de-France,1315000,42.8,87.2,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+92,Hauts-de-Seine,Île-de-France,1612000,42.2,68.4,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+93,Seine-Saint-Denis,Île-de-France,1632000,42.5,71.3,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+94,Val-de-Marne,Île-de-France,1373000,42.0,74.8,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582
+95,Val-d'Oise,Île-de-France,1244000,42.8,86.1,INSEE Populations légales 2021,SDES Parc automobile ménages 2022,https://www.insee.fr/fr/statistiques/7739582

@@ -1,0 +1,100 @@
+NUM_DEPT,NOM_DEPT,NOM_REGION,REVENU_MEDIAN_UC_2021,SOURCE,URL_SOURCE
+01,Ain,Auvergne-Rhône-Alpes,22560,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+02,Aisne,Hauts-de-France,18720,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+03,Allier,Auvergne-Rhône-Alpes,19130,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,19850,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,21100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,23450,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+07,Ardèche,Auvergne-Rhône-Alpes,20280,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+08,Ardennes,Grand Est,18400,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+09,Ariège,Occitanie,18650,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+10,Aube,Grand Est,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+11,Aude,Occitanie,18500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+12,Aveyron,Occitanie,20200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,21300,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+14,Calvados,Normandie,21100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+15,Cantal,Auvergne-Rhône-Alpes,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+16,Charente,Nouvelle-Aquitaine,19800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+17,Charente-Maritime,Nouvelle-Aquitaine,21200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+18,Cher,Centre-Val de Loire,19900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+19,Corrèze,Nouvelle-Aquitaine,20100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+21,Côte-d'Or,Bourgogne-Franche-Comté,22100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+22,Côtes-d'Armor,Bretagne,20600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+23,Creuse,Nouvelle-Aquitaine,18200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+24,Dordogne,Nouvelle-Aquitaine,19500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+25,Doubs,Bourgogne-Franche-Comté,21800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+26,Drôme,Auvergne-Rhône-Alpes,20500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+27,Eure,Normandie,21000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+28,Eure-et-Loir,Centre-Val de Loire,21500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+29,Finistère,Bretagne,21300,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+30,Gard,Occitanie,19800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+31,Haute-Garonne,Occitanie,22500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+32,Gers,Occitanie,19600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+33,Gironde,Nouvelle-Aquitaine,23100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+34,Hérault,Occitanie,20800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+35,Ille-et-Vilaine,Bretagne,22900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+36,Indre,Centre-Val de Loire,19000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+37,Indre-et-Loire,Centre-Val de Loire,21800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+38,Isère,Auvergne-Rhône-Alpes,23200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+39,Jura,Bourgogne-Franche-Comté,20900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+40,Landes,Nouvelle-Aquitaine,21300,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+41,Loir-et-Cher,Centre-Val de Loire,20700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+42,Loire,Auvergne-Rhône-Alpes,20600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+43,Haute-Loire,Auvergne-Rhône-Alpes,20000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+44,Loire-Atlantique,Pays de la Loire,23500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+45,Loiret,Centre-Val de Loire,22200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+46,Lot,Occitanie,19600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+47,Lot-et-Garonne,Nouvelle-Aquitaine,19400,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+48,Lozère,Occitanie,19900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+49,Maine-et-Loire,Pays de la Loire,21400,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+50,Manche,Normandie,21000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+51,Marne,Grand Est,21500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+52,Haute-Marne,Grand Est,19600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+53,Mayenne,Pays de la Loire,21100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+54,Meurthe-et-Moselle,Grand Est,21200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+55,Meuse,Grand Est,19200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+56,Morbihan,Bretagne,21000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+57,Moselle,Grand Est,21000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+58,Nièvre,Bourgogne-Franche-Comté,18800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+59,Nord,Hauts-de-France,19900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+60,Oise,Hauts-de-France,22100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+61,Orne,Normandie,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+62,Pas-de-Calais,Hauts-de-France,19200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+63,Puy-de-Dôme,Auvergne-Rhône-Alpes,21500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,22400,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+65,Hautes-Pyrénées,Occitanie,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+66,Pyrénées-Orientales,Occitanie,18900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+67,Bas-Rhin,Grand Est,22800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+68,Haut-Rhin,Grand Est,22000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+69,Rhône,Auvergne-Rhône-Alpes,24200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+70,Haute-Saône,Bourgogne-Franche-Comté,19800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+71,Saône-et-Loire,Bourgogne-Franche-Comté,20400,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+72,Sarthe,Pays de la Loire,20800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+73,Savoie,Auvergne-Rhône-Alpes,23100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+74,Haute-Savoie,Auvergne-Rhône-Alpes,25800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+75,Paris,Île-de-France,28500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+76,Seine-Maritime,Normandie,21300,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+77,Seine-et-Marne,Île-de-France,25200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+78,Yvelines,Île-de-France,28700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+79,Deux-Sèvres,Nouvelle-Aquitaine,20800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+80,Somme,Hauts-de-France,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+81,Tarn,Occitanie,19900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+82,Tarn-et-Garonne,Occitanie,19300,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+83,Var,Provence-Alpes-Côte d'Azur,22600,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+84,Vaucluse,Provence-Alpes-Côte d'Azur,20200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+85,Vendée,Pays de la Loire,21900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+86,Vienne,Nouvelle-Aquitaine,21000,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+87,Haute-Vienne,Nouvelle-Aquitaine,20500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+88,Vosges,Grand Est,19700,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+89,Yonne,Bourgogne-Franche-Comté,20200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+90,Territoire de Belfort,Bourgogne-Franche-Comté,21100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+91,Essonne,Île-de-France,26800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+92,Hauts-de-Seine,Île-de-France,31200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+93,Seine-Saint-Denis,Île-de-France,20100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+94,Val-de-Marne,Île-de-France,25100,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+95,Val-d'Oise,Île-de-France,24500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+971,Guadeloupe,Guadeloupe,14200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+972,Martinique,Martinique,14800,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+973,Guyane,Guyane,10200,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+974,La Réunion,La Réunion,12900,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
+976,Mayotte,Mayotte,5500,INSEE Filosofi 2021 - Revenu disponible médian par UC,https://www.insee.fr/fr/statistiques/5225241
