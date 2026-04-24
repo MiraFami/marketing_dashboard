@@ -1,17 +1,9 @@
-"""
-Chargement et préparation des données pour le dashboard.
-"""
 import os
-import functools
-import pandas as pd
-import numpy as np
 
-# Chemins
-_HERE     = os.path.dirname(os.path.abspath(__file__))      # utils/
-_APP_DIR  = os.path.dirname(_HERE)                           # 03_app_dash/
-_RENDU    = os.path.dirname(_APP_DIR)                        # rendu/
-DATA_PROC = os.path.join(_RENDU, "01_data", "processed")
-DATA_EXT  = os.path.join(_RENDU, "01_data", "external")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+DATA_PROC = os.path.join(BASE_DIR, "01_data", "processed")
+DATA_EXT  = os.path.join(BASE_DIR, "01_data", "external")
 
 # Constantes segments
 SEGMENT_COLORS = {
